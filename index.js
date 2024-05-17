@@ -17,4 +17,4 @@ mongoose
 // API Routes
 app.use(jobRoutes);
 
-app.listen(8080, () => console.log("Server is up and running at port 8080"));
+app.listen(10000, () => console.log("Server is up and running at port 8080"));
